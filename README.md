@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Sun%20Jeong%20An's%20github)
 <h2>소개</h2>
 98년생 유니티 게임개발자 선정안입니다.
-
 <h2>진행 프로젝트</h2>
 
  - Flat Touch - 2d 리듬&퍼즐 게임
@@ -12,14 +11,12 @@
 </br></br>
 깃허브에 올리지 않은 프로젝트는 노션에서 진행상황을 확인하실 수 있습니다.
 
-<h2>사용언어</h2>
+<h2>기술 스택</h2>
 
-Unity
- - C#
- - ShaderGraph
-
-BlockChain
- - solidity
+ - 엔진
+   - Unity
+ - 언어
+   - C#
 
 <h2>연락처</h2>
 
