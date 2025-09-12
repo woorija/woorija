@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=Sun%20Jeong%20An's%20github)
 <h2>소개</h2>
 98년생 유니티 게임개발자 선정안입니다.
 <h2>진행 프로젝트</h2>
@@ -17,6 +16,8 @@
    - Unity
  - 언어
    - C#
+ - 형상관리
+   - GitHub, SourceTree
 
 <h2>연락처</h2>
 
